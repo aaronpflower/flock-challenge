@@ -1,3 +1,5 @@
+// TODO: Add testing
+
 var Calculator = {
     filter: function(...numbers) {
       return numbers.filter(function(number) {
@@ -56,3 +58,5 @@ var Calculator = {
 // var doThis = Calculator.divide(3, 6)
 
 // console.log(doThis)
+
+module.exports = Calculator

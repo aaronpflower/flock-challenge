@@ -1,0 +1,29 @@
+{
+  "name": "flocktest",
+  "version": "1.0.0",
+  "description": "The purpose of this is to show case some front end delopment skills through 3 different callenges within 2 hours.",
+  "main": "app.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronpflower/flock-challenge.git"
+  },
+  "author": "Aaron Flower",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronpflower/flock-challenge/issues"
+  },
+  "homepage": "https://github.com/aaronpflower/flock-challenge#readme",
+  "dependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "html-webpack-plugin": "^2.28.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.18.1"
+  }
+}
